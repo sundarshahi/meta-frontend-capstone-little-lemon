@@ -8,9 +8,8 @@ import Nav from './components/Nav';
 function App() {
   return (
     <>
-     <Header>
-        <Nav/>
-     </Header>
+     <Header/>
+      
      <Main>
       Homepage
      </Main>
